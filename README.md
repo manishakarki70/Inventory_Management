@@ -73,7 +73,7 @@ This dashboard was built to solve these challenges by providing:
 
 ---
 
-![Report1](https://github.com/user-attachments/assets/49d52a83-2175-46e5-9fec-16ada17479ce)
+![Report1](https://github.com/user-attachments/assets/902b858b-2688-435a-b00c-99973a8cf821)
 
 
 ![Report2](https://github.com/user-attachments/assets/b3f84332-a054-45ff-8c03-562ba40b786c)
